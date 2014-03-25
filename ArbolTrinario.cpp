@@ -28,7 +28,7 @@ void ArbolTrinario::imprimir(NodoTrinario* raiz)
     imprimir(raiz->hijo_izquierdo);
     }
 
-    cout<< raiz->num<<endl;
+    cout<< raiz->num <<endl;
 }
 
 bool ArbolTrinario::existe(NodoTrinario* raiz, int num)
