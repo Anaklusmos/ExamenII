@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1395771658 source:c:\users\omar\desktop\prograiii\examenii\arboltrinario.cpp
+	<iostream>
+	"ArbolTrinario.h"
+
+1395770844 c:\users\omar\desktop\prograiii\examenii\arboltrinario.h
+	<iostream>
+	"NodoTrinario.h"
+
+1395770826 c:\users\omar\desktop\prograiii\examenii\nodotrinario.h
+	<iostream>
+
+1395770826 source:c:\users\omar\desktop\prograiii\examenii\nodotrinario.cpp
+	<iostream>
+	"NodoTrinario.h"
+
+1395771274 source:c:\users\omar\desktop\prograiii\examenii\main.cpp
+	<iostream>
+	"ArbolTrinario.h"
+	"NodoTrinario.h"
+
